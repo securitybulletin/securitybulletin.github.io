@@ -47,9 +47,9 @@
 }
 
 a.site-title {
-	font: normal 300 26px 'Oswald',sans-serif;
+	font: normal 300 26px 'Open Sans Condensed',sans-serif;
 	text-transform: uppercase;
-	letter-spacing: 1px;
+	letter-spacing: .1px;
 }
 
 	a.site-title:link, a.site-title:visited {
@@ -61,9 +61,9 @@ a.site-title {
 		color: #fff;
 	}
 
-	/* Post Archives */
-	p.post-meta {
-		border-bottom: 1px solid #828282;
-		padding-bottom: .5em;
-		margin-bottom: 1.5em;
-	}
+/* Post Archives */
+p.post-meta {
+	border-bottom: 1px solid #828282;
+	padding-bottom: .5em;
+	margin-bottom: 1.5em;
+}
