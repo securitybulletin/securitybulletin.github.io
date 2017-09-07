@@ -37,6 +37,7 @@ title: Resources
 * [Brussels Sprouts](https://itunes.apple.com/us/podcast/brussels-sprouts/id1238007695?mt=2&ign-mpt=uo%3D10)
 * [Carnegie Council Audio Podcast](https://www.carnegiecouncil.org/resources/audio/rss)
 * [The Carnegie Podcast](http://carnegieendowment.org/carnegie-podcast)
+* [The Cyberwire Podcast](https://www.thecyberwire.com/podcasts/)
 * [Foreign Policy Editors' Roundtable](http://the-e-r-podcast.foreignpolicy.com/)
 * [Global Dispatches](www.globaldispatchespodcast.com/)
 * [Lawfare Podcast](https://www.lawfareblog.com/topic/lawfare-podcast)
