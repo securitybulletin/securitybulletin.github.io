@@ -85,8 +85,9 @@ p.post-meta {
 	letter-spacing: 1px;
 }
 
-.post-content h2 {
-	font-size: 30px;
+.post-content h2,
+h2.post-title {
+	font-size: 35px;
 	font-family: 'Oswald';
 	font-weight: 300;
 	font-variant: small-caps;
