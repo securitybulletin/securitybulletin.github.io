@@ -1,5 +1,6 @@
 ---
 title: Resources
+layout: page
 ---
 
 ## Armed Conflict and Human Rights ##
