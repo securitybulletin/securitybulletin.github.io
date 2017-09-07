@@ -1,3 +1,7 @@
+---
+title: resources
+---
+
 ## Arms Control ##
 * [Arms Control Wonk](http://www.armscontrolwonk.com/)
 * [Federation of American Scientists](https://fas.org/)
