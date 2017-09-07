@@ -10,6 +10,8 @@ tags: united-states,north-korea,myanmar,bangladesh
 
 ## Americas
 
+Facebook announced Wednesday that 470 fake accounts, likely run by Russia, [purchased around $100,000](https://www.washingtonpost.com/business/technology/facebook-accounts-from-russia-bought-ads-during-us-campaign/2017/09/06/55793266-9362-11e7-8482-8dc9a7af29f9_story.html) in advertisements related to the 2016 U.S. presidential election. U.S. Senator Mark Warner (D-VA) said Thursday the operation was just the "[tip of the iceberg](http://www.cnn.com/2017/09/07/politics/warner-facebook-russia-hacking/index.html?sr=twCNNp090717warner-facebook-russia-hacking1112AMVODtop&CNNPolitics=Tw)" of social media election meddling and called for regulation of social media advertising and cooperation between state and federal officials on issues of election security.
+
 ## Africa
 
 ## Asia
