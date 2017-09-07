@@ -13,13 +13,15 @@
 	color: #ccc;
 }
 
-header.site-header div.wrapper, #site-navigation div.wrapper {
+header.site-header div.wrapper, #site-navigation div.wrapper,
+ 	footer.site-footer div.wrapper {
 	width: 80%;
 	max-width: 80%;
 }
 
 @media screen and (max-width: #{$content-width}) {
-	header.site-header div.wrapper, #site-navigation div.wrapper {
+	header.site-header div.wrapper, #site-navigation div.wrapper,
+		footer.site-footer div.wrapper {
 		width: auto;
 		max-width: 100%;
 		padding: 0 15px;
