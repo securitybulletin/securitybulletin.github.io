@@ -12,14 +12,14 @@ layout: page
             {{ post.title }}
       </h2>
     </a>
-    <p class="post-details">
-      Posted by
-      {% if post.author %}
-        {{ post.author }}
-      {% else %}
-        {{ site.title }}
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        {{ page.date | date: date_format }}
+      </time>
+      {% if page.author %}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
       {% endif %}
-      on {{ post.date | date: "%B %-d, %Y" }}
     </p>
     {% if post.excerpt %}
     <p>{{post.excerpt}}</p>
