@@ -72,6 +72,14 @@ div.post-preview h2.post-title {
 	font-family: 'Oswald';
 	font-weight: 300;
 	text-transform: uppercase;
+	padding-top: 5px;
+	border-top: 1px solid #828282;
+}
+
+div.post-preview p.post-meta {
+	border-bottom: none;
+	margin-bottom: .75em;
+	padding-bottom: none;
 }
 
 /* Posts */
@@ -80,13 +88,10 @@ h1.post-title {
 	font-family: 'Noto Serif',serif;
 }
 
-p.post-meta, p.post-details {
+p.post-meta {
 	border-bottom: 1px solid #828282;
 	padding-bottom: .5em;
 	margin-bottom: 1.5em;
-}
-
-p.post-meta {
 	font-weight: 300;
 	font-family: 'Oswald',sans-serif;
 	text-transform: uppercase;
