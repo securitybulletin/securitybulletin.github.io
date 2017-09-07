@@ -45,6 +45,7 @@ title: Resources
 * [National Security Law Podcast](https://www.nationalsecuritylawpodcast.com/)
 * [Pod Save the World](https://getcrookedmedia.com/pod-save-the-world-7cc67d64dd56)
 * [Rational Security](https://spaghettionthewallproductions.com/rational-security/)
+* [World Class](http://soundcloud.com/fsistanford)
 
 ## News ##
 * [Foreign Policy](http://foreignpolicy.com/)
