@@ -33,6 +33,7 @@ title: Resources
 * [Opinio Juris](http://opiniojuris.org/)
 
 ## Podcasts ##
+* [Arms Control Wonk Podcast](http://www.armscontrolwonk.com/podcast/)
 * [Bombshell](http://bombshell.libsyn.com/)
 * [Brussels Sprouts](https://itunes.apple.com/us/podcast/brussels-sprouts/id1238007695?mt=2&ign-mpt=uo%3D10)
 * [Carnegie Council Audio Podcast](https://www.carnegiecouncil.org/resources/audio/rss)
