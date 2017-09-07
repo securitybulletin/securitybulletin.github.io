@@ -1,5 +1,5 @@
 ---
-title: resources
+title: Resources
 ---
 
 ## Arms Control ##
