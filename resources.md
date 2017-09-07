@@ -39,6 +39,7 @@ title: Resources
 * [The Carnegie Podcast](http://carnegieendowment.org/carnegie-podcast)
 * [Foreign Policy Editors' Roundtable](http://the-e-r-podcast.foreignpolicy.com/)
 * [Global Dispatches](www.globaldispatchespodcast.com/)
+* [Lawfare Podcast](https://www.lawfareblog.com/topic/lawfare-podcast)
 * [The Global Politico](http://www.politico.com/global-politico)
 * [National Security Law Podcast](https://www.nationalsecuritylawpodcast.com/)
 * [Pod Save the World](https://getcrookedmedia.com/pod-save-the-world-7cc67d64dd56)
