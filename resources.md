@@ -49,7 +49,7 @@ title: Resources
 * [International Security Observer](http://securityobserver.org/)
 * [Jane's 360](http://www.janes.com/)
 * [New Atlanticist](http://www.atlanticcouncil.org/blogs/new-atlanticist)
-* [Political Violence @ a Glance](http://politicalviolenceataglance.org/
+* [Political Violence @ a Glance](http://politicalviolenceataglance.org/)
 * [Politico Defense](http://www.politico.com/defense)
 * [Washington Post National Security](https://www.washingtonpost.com/world/national-security/)
 
