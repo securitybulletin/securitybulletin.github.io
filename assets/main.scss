@@ -1,0 +1,59 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.site-header {
+	height: 50px;
+	padding: 25px 0;
+	border-top: 5px solid #56794a;
+	border-bottom: 1px solid #204a40;
+	background: #222 url(images/world-map-header-100x800.png) no-repeat left top;
+	color: #ccc;
+}
+
+	header.site-header div.wrapper {
+		width: 80%;
+		max-width: 80%;
+	}
+
+	.site-nav a:link, .site-header a:visited {
+		color: #aaa;
+		font-size: 1.5em;
+		text-transform: lowercase;
+		font-variant: small-caps;
+	}
+
+	.site-nav a:hover {
+		text-decoration: none;
+		color: #94cf7c;
+	}
+
+	@media screen and (max-width: $content-width) {
+		.site-nav a:link, .site-header a:visited {
+			color: #666;
+		}
+
+		.site-nav a:hover {
+			color: #000;
+		}
+	}
+
+.site-nav {
+	line-height: 50px;
+}
+
+a.site-title {
+	font: normal 300 26px 'Oswald',sans-serif;
+	text-transform: uppercase;
+}
+
+	a.site-title:link, a.site-title:visited {
+		color: #ccc;
+	}
+
+	a.site-title:hover {
+		text-decoration: none;
+		color: #fff;
+	}
