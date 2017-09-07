@@ -20,7 +20,7 @@ Tundu Lissu, an opposition member of **Tanzania's** parliament, was (shot and se
 
 ## Asia
 
-Rohingya refugees continue to flee violence in **Myanmar**. On Tuesday alone, [35,000 Rohingya crossed into **Bangladesh**](http://www.bbc.com/news/world-asia-41158703). The Rohingya are a primarily Muslim ethnic minority. They claim that Rakhine Buddhist mobs are attacking them and razing their villages, though the Myanmarese military asserts that Rohingya militants are attacking Rohingya civilans. A BBC reporter in Rakhine [posted tweets from one of the villages](https://twitter.com/i/moments/905812298023018497) that was razed. The BBC has a [good explainer](http://www.bbc.com/news/world-asia-41082689) on the latest round of violence.
+Rohingya refugees continue to flee violence in **Myanmar**. On Tuesday alone, [35,000 Rohingya crossed into **Bangladesh**](http://www.bbc.com/news/world-asia-41158703). The Rohingya are a primarily Muslim ethnic minority. They claim that Rakhine Buddhist mobs are attacking them and razing their villages, though the Myanmarese military asserts that Rohingya militants are attacking Rohingya civilans. A BBC reporter in Rakhine [posted tweets from one of the villages](https://twitter.com/i/moments/905812298023018497) that was razed. The BBC has a [good explainer](http://www.bbc.com/news/world-asia-41082689) on the latest round of violence and [moving tales](http://www.bbc.com/news/world-asia-41189748) from the refugees.
 
 ## Middle East
 
