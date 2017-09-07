@@ -20,4 +20,4 @@ Rohingya refugees continue to flee violence in **Myanmar**. On Tuesday alone, [3
 
 ## Middle East
 
-The **Israeli** air force [bombed a military facility in **Syria**](https://www.washingtonpost.com/world/israeli-airstrikes-target-syrian-research-center-linked-to-chemical-weapons/2017/09/07/2230abda-93a5-11e7-b9bc-b2f7903bab0d_story.html) that had been linked to the production of chemical weapons.
+**Israeli** rockets [struck a military facility in **Syria**](https://www.washingtonpost.com/world/israeli-airstrikes-target-syrian-research-center-linked-to-chemical-weapons/2017/09/07/2230abda-93a5-11e7-b9bc-b2f7903bab0d_story.html) that had been linked to the production of chemical weapons on Thursday. A day earlier, U.N. human rights investigators had concluded that the [Syrian government was responsible](http://www.bbc.com/news/world-middle-east-41173133) for a chemical weapons attack against a city held by rebels in April.
