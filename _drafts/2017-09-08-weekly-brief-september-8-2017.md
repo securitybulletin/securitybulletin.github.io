@@ -3,7 +3,7 @@ layout: post
 title: "Weekly Brief: September 8, 2017"
 author: Thucydides
 categories: weekly-brief
-tags: united-states,north-korea,myanmar,bangladesh,south-korea,israel,syria,togo,tanzania
+tags: united-states,north-korea,myanmar,bangladesh,south-korea,israel,syria,togo,tanzania,switzerland,turkey
 ---
 
 **Top Story**: **North Korea** [tested a nuclear weapon](https://www.nytimes.com/2017/09/03/world/asia/north-korea-tremor-possible-6th-nuclear-test.html) on Sunday. It was the Asian nation's sixth nuclear test, and by far its most powerful at approximately 150 kilotons. North Korea claimed it had successfully tested a hydrogen bomb. International experts agree that the blas was much more powerful than other weapon North Korea has tested to date, though they reported that there's [insufficient information to confirm](https://www.nytimes.com/2017/09/03/science/north-korea-bomb-test.html) North Korea's claim. Testing a thermonuclear device would represent a rapid step forward in the development of North Korea's nuclear arsenal. **United States** President Donald Trump responded by warning that even a threat of using such a weapon agains the United States or its allies would be "met with a massive military response." At a meeting of the U.N. Security Council on Monday, America's ambassador to the U.N., Nikki Haley, told the world that North Korean leader Kim Jong Un is "[begging for war](http://www.npr.org/sections/thetwo-way/2017/09/04/548461574/haley-north-korea-begging-for-war)." On Thursday, the final parts of a [Terminal High Altitude Area Defense](https://www.theguardian.com/world/2017/sep/07/south-korea-deploys-missile-system-as-us-strengthens-north-korea-trade-threat) (THAAD) system&mdash;an American missile defense system&mdash;arrived at a military base in **South Korea** amidst protests.
@@ -25,3 +25,6 @@ Rohingya refugees continue to flee violence in **Myanmar**. On Tuesday alone, [3
 ## Middle East
 
 **Israeli** rockets [struck a military facility in **Syria**](https://www.washingtonpost.com/world/israeli-airstrikes-target-syrian-research-center-linked-to-chemical-weapons/2017/09/07/2230abda-93a5-11e7-b9bc-b2f7903bab0d_story.html) that had been linked to the production of chemical weapons on Thursday. A day earlier, U.N. human rights investigators had concluded that the [Syrian government was responsible](http://www.bbc.com/news/world-middle-east-41173133) for a chemical weapons attack against a city held by rebels in April.
+
+## Cyber
+Cybersecurity company Symantec reported Thursday that a group of cyber attackers known as "Dragonfly" is [targeting the European and North American energy sectors](https://www.symantec.com/connect/blogs/dragonfly-western-energy-sector-targeted-sophisticated-attack-group), specifically in the **United States**, **Switzerland**, and **Turkey**. Symantec calls Dragonfly an "accomplished attack group" and cannot state definitively where the group is located or who is behind it.
