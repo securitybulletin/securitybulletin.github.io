@@ -2,7 +2,7 @@
 layout: post
 title: "Weekly Brief: October 5, 2015"
 author: Thucydides
-date: 2015-05-05 08:21:32
+date: 2015-10-05 08:21:32
 categories: weekly-brief
 tags: russia, united-states, myanmar
 ---
