@@ -61,14 +61,13 @@ a.site-title {
 		color: #fff;
 	}
 
-/* Post Archives */
-p.post-meta {
+/* Posts */
+p.post-meta, p.post-details {
 	border-bottom: 1px solid #828282;
 	padding-bottom: .5em;
 	margin-bottom: 1.5em;
 }
 
-/* Posts */
 p.post-meta {
 	font-weight: 300;
 	font-family: 'Oswald',sans-serif;
