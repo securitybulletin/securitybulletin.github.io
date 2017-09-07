@@ -5,11 +5,11 @@
 @import "minima";
 
 .site-header {
-	height: 50px;
-	padding: 25px 0;
+	min-height: 0;
+	padding: 20px 0;
 	border-top: 5px solid #56794a;
 	border-bottom: 1px solid #204a40;
-	background: #222 url(images/world-map-header-100x800.png) no-repeat left top;
+	background: #222 url(images/world-map-header-100x800-recolored.png) no-repeat left top;
 	color: #ccc;
 }
 
@@ -20,8 +20,20 @@
 	}
 }
 
-	.site-nav a:link, .site-header a:visited {
-		color: #aaa;
+	.site-header a:link, .site-header a:visited {
+		color: #ddd;
+		font-size: 2em;
+		text-transform: uppercase;
+	}
+
+#site-navigation {
+	background-color: #5b8c6f
+}
+
+#site-navigation:after {content:"\0020";display:block;height:0;clear:both;visibility:hidden;overflow:hidden;}
+
+	.site-nav a:link, .site-nav a:visited {
+		color: #eee;
 		font-size: 1.25em;
 		text-transform: lowercase;
 		font-variant: small-caps;
