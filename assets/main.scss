@@ -7,16 +7,22 @@
 .site-header {
 	min-height: 0;
 	padding: 20px 0;
-	border-top: 5px solid #56794a;
-	border-bottom: 1px solid #204a40;
+	border-top: 5px solid #5b8c6f;
+	border-bottom: 1px solid #5b8c6f;
 	background: #222 url(images/world-map-header-100x800-recolored.png) no-repeat left top;
 	color: #ccc;
 }
 
-@media screen and (min-width: #{$content-width}) {
-	header.site-header div.wrapper {
-		width: 80%;
-		max-width: 80%;
+header.site-header div.wrapper, #site-navigation div.wrapper {
+	width: 80%;
+	max-width: 80%;
+}
+
+@media screen and (max-width: #{$content-width}) {
+	header.site-header div.wrapper, #site-navigation div.wrapper {
+		width: auto;
+		max-width: 100%;
+		padding: 0 15px;
 	}
 }
 
@@ -27,13 +33,13 @@
 	}
 
 #site-navigation {
-	background-color: #5b8c6f
+	background-color: #2c2c2c;
 }
 
 #site-navigation:after {content:"\0020";display:block;height:0;clear:both;visibility:hidden;overflow:hidden;}
 
 	.site-nav a:link, .site-nav a:visited {
-		color: #eee;
+		color: #aaa;
 		font-size: 1.25em;
 		text-transform: lowercase;
 		font-variant: small-caps;
@@ -41,7 +47,7 @@
 
 	.site-nav a:hover {
 		text-decoration: none;
-		color: #94cf7c;
+		color: #69d795;
 	}
 
 	@media screen and (max-width: $content-width) {
