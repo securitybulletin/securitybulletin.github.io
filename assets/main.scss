@@ -13,10 +13,12 @@
 	color: #ccc;
 }
 
+@media screen and (min-width: #{$content-width}) {
 	header.site-header div.wrapper {
 		width: 80%;
 		max-width: 80%;
 	}
+}
 
 	.site-nav a:link, .site-header a:visited {
 		color: #aaa;
@@ -47,6 +49,7 @@
 a.site-title {
 	font: normal 300 26px 'Oswald',sans-serif;
 	text-transform: uppercase;
+	letter-spacing: 1px;
 }
 
 	a.site-title:link, a.site-title:visited {
