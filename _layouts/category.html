@@ -21,5 +21,8 @@ layout: page
       {% endif %}
       on {{ post.date | date: "%B %-d, %Y" }}
     </p>
+    {% if post.excerpt %}
+    <p>{{post.excerpt}}</p>
+    {% endif %}
 </div>
 {% endfor %}
