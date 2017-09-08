@@ -27,17 +27,17 @@ The **United States** and **China** are [negotiating a treaty that would prohi
 
 The administration of **Ecuador's** president, Rafael Correa, has [stepped up efforts to interfere with the freedom of the press](http://foreignpolicy.com/2015/09/21/free-speech-crackdown-ecuador-edition/). Recently, the government began shutting down Fundamedios, a group based in Quito that aims to support journalists and safeguard freedom of expression and association. The Inter-American Commission on Human Rights condemned the action against Fundamedios last Thursday.
 
-### Asia
+## Asia
 
 American soldiers stationed in **Afghanistan** [have been ordered not to intervene](http://www.nytimes.com/2015/09/21/world/asia/us-soldiers-told-to-ignore-afghan-allies-abuse-of-boys.html) when Afghan commanders supported by the United States sexually abuse children on military bases. An American military spokesman said that allegations of sexual abuse of children is  a matter of domestic Afghan criminal law, and that American soldiers are not obligated to report it unless rape is being used as a weapon of war. He did not address the instructions that American soldiers not intervene. The _New York Times_ article linked above does an excellent job of explaining the difficult situations faced by American servicemen in dealing with these issues.
 
 Xi Jinping, **China's** president and General Secretary of the Communist Party of China, visited the United States at the end of last week. _The Diplomat_ argues that Presidents Xi and Obama should attempt to "[steer U.S.-China strategic competition onto a manageable course](http://thediplomat.com/2015/09/how-washington-can-manage-sustainable-strategic-competition-with-china/)." The Stimson Center [provides a preview of the state visit](http://www.stimson.org/spotlight/xi-jinping-comes-to-washington/), with a focus on three issues: a new model of major power relations, building a personal relationship between the two leaders, and a proactive attitude to addressing world issues.
 
-### Europe
+## Europe
 
 Elections in **Greece** [returned Alexis Tsipras](http://www.theguardian.com/world/2015/sep/20/syriza-set-to-return-to-power-in-greek-general-election), a leftwing leader who was initially elected in January because he opposed austerity measures, to power in that country. Tsipras promised to combat corruption, and his Syriza party promised to keep Greece on track with its European lenders, who bailed it out three times over the summer. The _Wall Street Journal_ expects that Tsipras will implement "[tough fiscal retrenchment.](http://www.wsj.com/articles/victorious-tsipras-to-be-sworn-in-as-greek-premier-1442837476)"
 
-### Middle East
+## Middle East
 
 On Wednesday, the Pentagon announced that, on September 10, [coalition airstrikes in **Iraq** killed a senior leader of the Islamic State](http://www.nytimes.com/2015/09/23/world/middleeast/iraq-airstrike-kills-an-isis-leader.html) in Iraq and the Levant (ISIL). The leader, Abu Bakr al Turkmani, was described as an "administrative emir," and the Pentagon press secretary claimed that [his death will disrupt ISIL operations](http://www.defense.gov/News-Article-View/Article/618215/dod-confirms-deaths-of-isil-leader-al-qaida-operative) in the area around Tal Afar, Iraq.
 
@@ -47,6 +47,6 @@ Human Rights Watch (HRW) [warns that Shi'a militias](https://www.hrw.org/news/20
 
 A [report to the United States Special Operations Command Central](http://www.military.com/daily-news/2015/09/21/despite-attention-to-islamic-state-alqaida-may-be-bigger-threat.html) argues that, despite the attention on the Islamic State of Iraq and the Levant (ISIL), al-Qaeda may be a more dangerous long-term threat. The author argues that ISIL's brutal tactics may alienate it from potential supports, while al-Qaeda is making an effort win the support of people in the areas it controls. However, the author places huge importance on al-Qaeda affiliates, especially al-Qaeda in the Arabian Peninsula (AQAP). If AQAP were to defect to ISIL, it would be a "game-changer."
 
-### Oceania
+## Oceania
 
 Gunmen [kidnapped four people from a resort](http://edition.cnn.com/2015/09/22/asia/philippines-kidnapping/index.html) in the southern **Philippines** on Monday night. The region has suffered from unrest involving Islamic militants, but the identity of the kidnappers is still unknown, and as of Monday there were no indications that terrorist groups active in the region were involved. A note left at the scene potentially implicating the New People's Army (NPA) [may have been a diversionary tactic](http://globalnews.ca/news/2234841/canadians-kidnapped-in-the-philippines-heres-what-you-need-to-know/). The people kidnapped included two Canadians, a Norwegian, and a Filipina. [Military and police officials were surprised by the attack](http://www.theguardian.com/world/2015/sep/22/gunmen-abduct-two-canadian-tourists-from-southern-philippines-resort), because the immediate area around the resort has been relatively peaceful for more than a decade, and recent peace initiatives with Islamist rebels seemed to have brought stability to the region. As of Wednesday, [searches on the ground and from the air had turned up no sign](http://www.theglobeandmail.com/news/world/military-search-reveals-no-sign-of-canadians-seized-in-philippines/article26493706/) of the kidnappers or victims.
