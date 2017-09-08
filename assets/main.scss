@@ -83,8 +83,27 @@ a.site-title {
 
 footer.site-footer {
 	background-color: #222;
-	color: #ddd;
+	color: #eee;
 }
+
+	footer.site-footer h2.footer-heading {
+		font: normal 300 22px 'Open Sans Condensed',sans-serif;
+		text-transform: uppercase;
+		letter-spacing: .1px;
+	}
+
+	.footer-col-wrapper {
+		color: #ccc;
+	}
+
+	.site-footer a:link, .site-footer a:visited {
+		color: #7bb3ec;
+	}
+
+	.site-footer a:hover {
+		color: #adcbea;
+		text-decoration: none;
+	}
 
 /* General Styles */
 h2 {
