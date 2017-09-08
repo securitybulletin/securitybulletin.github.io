@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weekly Brief: September 28, 2015"
-author: Thucydides"
+author: Thucydides
 date: 2015-09-28 08:00:00
 categories: weekly-brief
 tags: russia,united-states,israel,syria,afghanistan,burkina-faso,china,ecuador,greece,iran,iraq,mozambique,nigeria,philippines,senegal
