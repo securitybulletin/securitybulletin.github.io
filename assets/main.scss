@@ -72,6 +72,10 @@ header.site-header div.wrapper, #site-navigation div.wrapper,
 		color: #69d795;
 	}
 
+	#main-navigation a.nav-item:not(:last-child) {
+		margin-right: 20px;
+	}
+
 	@media screen and (max-width: $content-width) {
 		.main-nav {
 			float: none;
@@ -97,10 +101,6 @@ header.site-header div.wrapper, #site-navigation div.wrapper,
 			margin-right: 0;
 		}
 	}
-
-#main-navigation a.nav-item:not(:last-child) {
-	margin-right: 20px;
-}
 
 a.site-title {
 	font: normal 300 26px 'Open Sans Condensed',sans-serif;
