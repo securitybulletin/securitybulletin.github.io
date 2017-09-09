@@ -4,7 +4,7 @@ title: "Conflict Report: North Kivu"
 author: "Thucydides"
 date: 2013-08-02 12:54:56
 categories: conflict-report
-tags: [africa, democratic-republic-congo]
+tags: [africa, democratic republic of the congo]
 ---
 
 On Wednesday, United Nations Secretary-General Ban Ki-moon expressed optimism that a major peace agreement among eleven nations in Africa's Great Lakes region signed in February will provide lasting stability in central Africa. But nine days ago, the M23, a rebel group in the Democratic Republic of the Congo, [claimed](http://www.foxnews.com/world/2013/07/24/dr-congo-rebels-claim-400-troops-killed-in-fighting-flare-up/) that it has killed over 400 government troops in skirmishes over the previous ten days. Actively supported by the Rwandan military, the M23 has been guilty of at least 61 rapes and 44 executions in the last five months. The group also forces men and boys in the eastern Congo to join it, according a recent [report](http://www.hrw.org/news/2013/07/22/dr-congo-m23-rebels-kill-rape-civilians) from Human Rights Watch. The UN [estimates](http://www.un.org/apps/news/story.asp?NewsID=45541) that strife in the DR Congo has created 2.6 million internally displaced persons and that 6.5 million need food and emergency aid. Unfortunately, the skirmishes, rapes, and murders in the east are only the most recent chapters in the Democratic Republic of the Congo's bloody history.

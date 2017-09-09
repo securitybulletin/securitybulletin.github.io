@@ -4,7 +4,7 @@ title: "Conflict Report: South Sudan"
 author: Thucydides
 date: 2014-05-07 20:02"18
 categories: conflict-report
-tags: [africa, south-sudan]
+tags: [africa, south sudan]
 ---
 
 South Sudan became a country on July 9, 2011. Its independence from Sudan brought an end to part of a devastating civil war that had originated in southern Sudan in 1983. Less than three years after declaring independence, South Sudan became embroiled in its own civil conflict. On December 15, 2013, President Salva Kiir accused his former vice president, Riek Machar, of plotting a coup against him. Kiir had fired Machar in July, along with his entire cabinet. Kiir arrested eleven prominent politicians he suspected of involvement with the alleged plot. Fighting broke out between supporters of Mr. Kiir and supporters of Mr. Machar. Ethnic tensions, spurred by radio broadcasts, have fanned the flames of the conflict and converted it into a civil war between two ethnic groups: Mr. Kiir's Dinka and Mr. Machar's Nuer.
