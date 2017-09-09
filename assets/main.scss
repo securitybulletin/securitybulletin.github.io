@@ -77,6 +77,7 @@ div.wrapper {
 	font-size: 1.5em;
 	text-align: center;
 	line-height: 2em;
+	float: right;
 }
 
 	#nav-toggle:link, #nav-toggle:visited {
@@ -128,12 +129,16 @@ main.page-content div.wrapper:after {content:"\0020";display:block;height:0;clea
 		#main-navigation a.nav-item {
 			display: block;
 			text-align: center;
-			margin-bottom: 1em;
+			padding: .5em 0;
 			line-height: 1em;
 		}
 
 		#main-navigation a.nav-item:not(:last-child) {
 			margin-right: 0;
+		}
+
+		#main-navigation a.nav-item:last-child {
+			margin-bottom: .5em;
 		}
 
 		a.site-title img {

@@ -4,6 +4,7 @@
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     <a class="site-title" href="{{ "/" | relative_url }}"><img src="{{ "/assets/images/isb-icon.png" | relative_url }}" alt=" "> {{ site.title | escape }}</a>
+    <a id="nav-toggle" href="#"><i class="fa fa-bars" aria-hidden="true"></i></a>
   </div>
 
   <script type="text/javascript" src="{{ "/assets/javascript/nav.js" | relative_url }}"></script>
@@ -14,13 +15,12 @@
 <div id="site-navigation">
   <div class="wrapper">
     <nav class="main-nav">
-        <a id="nav-toggle" href="#"><i class="fa fa-bars" aria-hidden="true"></i></a>
-        <div id="main-navigation">
-          <a class="nav-item" href="{{ "/" | relative_url }}">Home</a>
-          <a class="nav-item" href="{% link category/weekly-brief.html %}">Weekly Brief</a>
-          <a class="nav-item" href="{% link category/conflict-report.html %}">Conflict Reports</a>
-          <a class="nav-item" href="{% link resources.md %}">Resources</a>
-        </div>
+      <div id="main-navigation">
+        <a class="nav-item" href="{{ "/" | relative_url }}">Home</a>
+        <a class="nav-item" href="{% link category/weekly-brief.html %}">Weekly Brief</a>
+        <a class="nav-item" href="{% link category/conflict-report.html %}">Conflict Reports</a>
+        <a class="nav-item" href="{% link resources.md %}">Resources</a>
+      </div>
     </nav>
   </div>
 </div>
