@@ -4,7 +4,7 @@ title: "Weekly Brief: October 5, 2015"
 author: Thucydides
 date: 2015-10-05 08:21:32
 categories: weekly-brief
-tags: russia, united-states, myanmar
+tags: [russia, united-states, myanmar]
 ---
 
 **Top Story**: **Russia** [began airstrikes in **Syria**](http://time.com/4055405/russia-airstrikes-syria/) on Wednesday. America's Secretary of State John Kerry said that Syrian president Bashar al-Assad should leave power, but Russian president Vladimir Putin said that Assad should meet with the Syrian opposition to discuss a settlement to the conflict. Though Russia claimed to target the Islamic State of Iraq and the Levant (ISIL), it bombed other opponents of the Assad regime as well, [including units trained armed by America's Central Intelligence Agency](https://www.washingtonpost.com/world/russias-legislature-authorizes-putin-to-use-military-force-in-syria/2015/09/30/f069f752-6749-11e5-9ef3-fde182507eac_story.html). _The Economist_ argues that Russia's intervention [might increase the chances for peace](http://www.economist.com/news/middle-east-and-africa/21667947-russias-intervention-side-bashar-assad-just-might-increase-chances). Russia said that its airstrikes would [last a few months](http://www.wsj.com/articles/russia-says-airstrikes-in-syria-to-last-a-few-months-1443777347), even as activists on the grounds [reported](http://www.theguardian.com/world/2015/oct/02/people-are-angry-and-boiling-syrians-tell-of-russian-airstrikes) that most of the [Russian strikes hit civilian targets](http://america.aljazeera.com/articles/2015/10/2/russia-accused-of-hitting-civilians-syria.html), and seven nations (**France**, **Germany**, **Qatar**, **Saudi Arabia**, **Turkey**, the **United Kingdom**, and the **United States**) criticized Russia's actions.
