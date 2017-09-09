@@ -1,0 +1,11 @@
+---
+layout: page
+---
+
+{% unless page.content == '' %}
+  <p>{{ page.content }}</p>
+{% endunless %}
+
+{% for post in site.tags[page.tag] %}
+  {% include post_list.html %}
+{% endfor %}
