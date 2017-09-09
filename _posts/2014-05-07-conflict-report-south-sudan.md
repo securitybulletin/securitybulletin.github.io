@@ -3,8 +3,8 @@ layout: post
 title: "Conflict Report: South Sudan"
 author: Thucydides
 date: 2014-05-07 20:02"18
-categories: conflict-report
-tags: [africa, south sudan]
+category: conflict-report
+tags: [africa, south-sudan]
 regions: [africa]
 ---
 

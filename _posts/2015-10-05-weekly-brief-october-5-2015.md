@@ -3,8 +3,8 @@ layout: post
 title: "Weekly Brief: October 5, 2015"
 author: Thucydides
 date: 2015-10-05 08:21:32
-categories: [weekly brief]
-tags: [russia, united states, myanmar, france, germany, qatar, saudi arabia, turkey, united kingdom, afghanistan, china, syria, central african republic, ukraine]
+category: weekly-brief
+tags: [russia, united-states, myanmar, france, germany, qatar, saudi-arabia, turkey, united-kingdom, afghanistan, china, syria, central-african-republic, ukraine]
 regions: [asia, africa, europe, middle east]
 ---
 

@@ -3,8 +3,8 @@ layout: post
 title: "Weekly Brief: September 21, 2015"
 author: Thucydides
 date: 2015-09-21 06:35:23
-categories: [weekly brief]
-tags: [burkina faso, croatia, hungary, japan, niger, north korea, russia, saudi arabia, sri lanka, syria, tajikistan, united states, yemen]
+category: weekly-brief
+tags: [burkina faso, croatia, hungary, japan, niger, north korea, russia, saudi-arabia, sri-lanka, syria, tajikistan, united-states, yemen]
 regions: [africa, americas, middle east]
 ---
 

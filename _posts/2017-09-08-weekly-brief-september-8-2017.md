@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Weekly Brief: September 8, 2017"
-date: 2017-09-08 07:30:00
 author: Thucydides
-categories: [weekly brief]
-tags: [united states, north korea, myanmar, bangladesh, south korea, israel, syria, togo, tanzania, switzerland, turkey, lebanon]
+date: 2017-09-08 07:30:00
+category: weekly-brief
+tags: [united-states, north-korea, myanmar, bangladesh, south korea, israel, syria, togo, tanzania, switzerland, turkey, lebanon]
 regions: [americas, africa, asia, middle east]
 ---
 

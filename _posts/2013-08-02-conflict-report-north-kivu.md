@@ -3,8 +3,8 @@ layout: post
 title: "Conflict Report: North Kivu"
 author: "Thucydides"
 date: 2013-08-02 12:54:56
-categories: conflict-report
-tags: [africa, democratic republic of the congo]
+category: conflict-report
+tags: [africa, democratic-republic-congo]
 regions: [africa]
 ---
 
