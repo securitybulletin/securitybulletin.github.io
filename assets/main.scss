@@ -104,6 +104,10 @@ header.site-header div.wrapper, #site-navigation div.wrapper,
 		#main-navigation a.nav-item:not(:last-child) {
 			margin-right: 0;
 		}
+
+		a.site-title img {
+			display: none;
+		}
 	}
 
 a.site-title {
