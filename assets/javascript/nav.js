@@ -19,7 +19,7 @@ getComputedStyle(document.getElementById('main-navigation')).getPropertyValue('d
 
 function setUpResize() {
 	window.addEventListener('resize', function () {
-		if(getComputedStyle(document.getElementById('main-navigation')).getPropertyValue('display') == 'none') {
+		if(getComputedStyle(document.getElementById('nav-toggle')).getPropertyValue('display') == 'none') {
 			document.getElementById('main-navigation').style.display = 'block';
 		} else {
 			document.getElementById('main-navigation').style.display = 'none';
