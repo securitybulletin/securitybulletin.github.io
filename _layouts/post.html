@@ -6,7 +6,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      <time datetime="{{ page.date | date: "%Y-%m-%dT%H:%M:%S%z" }}" itemprop="datePublished">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         {{ page.date | date: date_format }}
       </time>
@@ -18,8 +18,8 @@ layout: default
         <p class="regions-graf">Regions:
           {% for region in page.regions %}
             <a class="region" href="/region/{{ region | slugify }}">
-              <img src="/assets/region-icons/{{ region | slugify }}.png" alt=" ">
-              {{ region }}</a>{% if forloop.last == false %}&emsp;{% endif %}
+              <img src="/assets/region-icons/{{ region | slugify }}.png" alt=" ">&nbsp;{{ region }}</a>
+              {% if forloop.last == false %}&emsp;{% endif %}
           {% endfor %}
         </p>
       {% endif %}
