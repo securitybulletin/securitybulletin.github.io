@@ -168,6 +168,14 @@ h2 {
 	font-size: 28px;
 }
 
+a:link, a:visited {
+	color: #2a7ae2;
+}
+
+a:hover {
+	color: #1756a9;
+}
+
 /* Post Lists */
 div.post-preview:not(:last-child) {
 	border-bottom: 1px solid #828282;
