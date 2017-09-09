@@ -2,8 +2,8 @@
 layout: post
 title: "Weekly Brief: October 12, 2015"
 author: Thucydides
-categories: weekly-brief
 date: 2015-10-12 08:24:17
+categories: [weekly brief]
 tags: [russia, turkey, united states, antigua and barbuda, dominican republic, burkina faso, afghanistan, israel, yemen]
 ---
 

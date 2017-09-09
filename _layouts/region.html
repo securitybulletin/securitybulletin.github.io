@@ -7,7 +7,7 @@ layout: page
 {% endunless %}
 
 {% for post in site.posts %}
-  {% if post.regions contains page.tag %}
+  {% if post.regions contains page.region %}
     {% include post_list.html %}
   {% endif %}
 {% endfor %}

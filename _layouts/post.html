@@ -28,4 +28,14 @@ layout: default
       <a class="tag" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>{% if forloop.last == false %},{% endif %}
     {% endfor %}
 	</p>
+
+  {% if page.regions.size > 0 %}
+    <p class="regions-graf">Regions:
+      {% for region in page.regions %}
+        <a class="region" href="/region/{{ region | slugify }}">
+          <img src="/assets/region-icons/{{ region | slugify }}.png" alt=" ">
+          {{ region }}</a>{% if forloop.last == false %},{% endif %}
+      {% endfor %}
+    </p>
+  {% endif %}
 </article>
