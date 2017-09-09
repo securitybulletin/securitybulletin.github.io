@@ -17,18 +17,34 @@ body {
 	color: #ccc;
 }
 
-header.site-header div.wrapper, #site-navigation div.wrapper,
- 	footer.site-footer div.wrapper {
+div.wrapper {
 	width: 80%;
 	max-width: 80%;
 }
 
+#main-content {
+	float: left;
+	width: -webkit-calc(75% - 50px);
+  width: calc(75% - 70px);
+	border-right: 1px solid #ccc;
+	padding-right: 30px;
+}
+
+#sidebar {
+	float: right;
+  width: 25%;
+}
+
 @media screen and (max-width: #{$content-width}) {
-	header.site-header div.wrapper, #site-navigation div.wrapper,
-		footer.site-footer div.wrapper {
+	div.wrapper {
 		width: auto;
 		max-width: 100%;
 		padding: 0 15px;
+	}
+
+	#main-content, #sidebar {
+		float: none;
+		width: 100%;
 	}
 }
 
@@ -57,7 +73,8 @@ header.site-header div.wrapper, #site-navigation div.wrapper,
 		color: #fff;
 	}
 
-#site-navigation:after {content:"\0020";display:block;height:0;clear:both;visibility:hidden;overflow:hidden;}
+#site-navigation:after,
+main.page-content div.wrapper:after {content:"\0020";display:block;height:0;clear:both;visibility:hidden;overflow:hidden;}
 
 	.main-nav {
 		float: right;
@@ -131,6 +148,21 @@ a.site-title {
 		vertical-align: middle;
 	}
 
+/* Sidebar */
+.region-list {
+	margin-left: 0;
+}
+
+	.region-list li {
+		list-style: none;
+		margin: 10px 0;
+	}
+
+	.region-list li img {
+		margin-right: 5px;
+	}
+
+/* Footer */
 footer.site-footer {
 	background-color: #222;
 	color: #eee;
@@ -182,13 +214,15 @@ div.post-preview:not(:last-child) {
 	margin-bottom: 1.5em;
 }
 
-div.post-preview h2.post-title {
+div.post-preview h2.post-title,
+#sidebar h2 {
 	font-size: 28px;
 	font-family: 'Oswald';
 	font-weight: 300;
 }
 
-div.post-preview p.post-meta {
+div.post-preview p.post-meta
+ {
 	border-bottom: none;
 	margin-bottom: .75em;
 	padding-bottom: none;
@@ -200,14 +234,17 @@ h1.post-title {
 	font-family: 'Noto Serif',serif;
 }
 
-p.post-meta {
-	border-bottom: 1px solid #828282;
-	padding-bottom: .5em;
-	margin-bottom: 1.5em;
+p.post-meta, p.regions-graf {
 	font-weight: 300;
 	font-family: 'Oswald',sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 1px;
+}
+
+p.post-meta {
+	border-bottom: 1px solid #828282;
+	padding-bottom: .5em;
+	margin-bottom: 1.5em;
 }
 
 .post-content h2,

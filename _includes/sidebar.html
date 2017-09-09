@@ -1,0 +1,11 @@
+<h2>Regions</h2>
+{% assign regions = "Africa,Americas,Asia,Europe,Middle East,Oceania" | split: ',' %}
+<ul class="region-list">
+	{% for region in regions %}
+		<li>
+			<a href="/region/{{ region | slugify }}">
+			<img src="/assets/region-icons/{{ region | slugify }}.png" alt=" ">{{ region }}
+			</a>
+		</li>
+	{% endfor %}
+</ul>
