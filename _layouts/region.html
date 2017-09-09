@@ -6,6 +6,8 @@ layout: page
   <p>{{ page.content }}</p>
 {% endunless %}
 
-{% for post in site.tags[page.tag] %}
-  {% include post_list.html %}
+{% for post in site.posts %}
+  {% if post.regions contains page.tag %}
+    {% include post_list.html %}
+  {% endif %}
 {% endfor %}

@@ -22,4 +22,10 @@ layout: default
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
   {% endif %}
+
+  <p>
+    {% for tag in page.tags %}
+      <a class="tag" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>{% if forloop.last == false %},{% endif %}
+    {% endfor %}
+	</p>
 </article>
