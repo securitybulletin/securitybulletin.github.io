@@ -19,7 +19,7 @@ layout: default
           {% for region in page.regions %}
             <a class="region" href="/region/{{ region | slugify }}">
               <img src="/assets/region-icons/{{ region | slugify }}.png" alt=" ">
-              {{ region }}</a>{% if forloop.last == false %},{% endif %}
+              {{ region }}</a>{% if forloop.last == false %}&emsp;{% endif %}
           {% endfor %}
         </p>
       {% endif %}
