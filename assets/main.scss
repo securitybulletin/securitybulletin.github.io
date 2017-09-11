@@ -46,7 +46,7 @@ div.wrapper {
 	width: 25%;
 }
 
-@media screen and (min-width: calc(#{$content-width} + 1px)) and (max-width: 1024px;) {
+@media screen and (min-width: calc(#{$content-width} + 1px)) and (max-width: 1024px) {
 	.site-header {
 		background: #222;
 	}
