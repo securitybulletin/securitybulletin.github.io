@@ -35,7 +35,7 @@ div.wrapper {
 #main-content {
 	float: left;
 	width: -webkit-calc(75% - 50px);
-  width: calc(75% - 70px);
+	width: calc(75% - 70px);
 	border-right: 1px solid #5b8c6f;
 	padding-right: 30px;
 }
@@ -43,7 +43,13 @@ div.wrapper {
 #sidebar {
 	padding-top: 50px;
 	float: right;
-  width: 25%;
+	width: 25%;
+}
+
+@media screen and (min-width: calc(#{$content-width} + 1px)) and (max-width: 1024px;) {
+	.site-header {
+		background: #222;
+	}
 }
 
 @media screen and (max-width: #{$content-width}) {
