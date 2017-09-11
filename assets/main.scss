@@ -46,12 +46,6 @@ div.wrapper {
 	width: 25%;
 }
 
-@media screen and (min-width: calc(#{$content-width} + 1px)) and (max-width: 1024px) {
-	.site-header {
-		background: #222;
-	}
-}
-
 @media screen and (max-width: #{$content-width}) {
 	div.wrapper {
 		width: auto;
@@ -172,6 +166,12 @@ a.site-title {
 		margin-right: 10px;
 		vertical-align: middle;
 	}
+
+@media screen and (min-width: #{$content-width}) and (max-width: 1024px) {
+	a.site-title img {
+		display: none;
+	}
+}
 
 /* Sidebar */
 .region-list {
