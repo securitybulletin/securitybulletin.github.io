@@ -33,6 +33,20 @@ layout: page
 * [Lawfare](https://www.lawfareblog.com/)
 * [Opinio Juris](http://opiniojuris.org/)
 
+## Newsletters
+* [Arms Control Wonk](http://www.armscontrolwonk.com/subscribe/)
+* [Carnegie Endowment](http://carnegieendowment.org/resources/register/)
+* [Center for International and Strategic Studies](https://www.csis.org/subscribe)
+* [Crypto-Gram by Bruce Schneier](https://lists.schneier.com/cgi-bin/mailman/listinfo/crypto-gram)
+* [Human Rights Watch](http://action.hrw.org/ea-action/action?ea.client.id=1908&ea.campaign.id=32180&ea.tracking.id=supportus)
+* [International Crisis Group Updates](https://www.crisisgroup.org/crisis-group-updates)
+* [Just Security Early Edition](https://www.justsecurity.org/early-edition-email-signup/)
+* [Lawfare newsletters](https://www.lawfareblog.com/subscribe-lawfare)
+* [RAND Policy Currents](https://www.rand.org/policy-currents.html)
+* [Recorded Future Cyber Daily](https://go.recordedfuture.com/cyber-daily)
+* [START Newsletter](http://start.umd.edu/newsletters)
+* [United States Institute of Peace newsletters](https://www.usip.org/newsletter-signup)
+
 ## Podcasts ##
 * [Arms Control Wonk Podcast](http://www.armscontrolwonk.com/podcast/)
 * [Bombshell](http://bombshell.libsyn.com/)
@@ -47,6 +61,7 @@ layout: page
 * [National Security Law Podcast](https://www.nationalsecuritylawpodcast.com/)
 * [Pod Save the World](https://getcrookedmedia.com/pod-save-the-world-7cc67d64dd56)
 * [Rational Security](https://spaghettionthewallproductions.com/rational-security/)
+* [Steptoe Cyberlaw Podcast](http://www.steptoecyberblog.com/)
 * [World Class](http://soundcloud.com/fsistanford)
 
 ## News ##
